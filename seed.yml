@@ -1,2 +1,2 @@
 before_build:
-  - cd frontend && npm install
+  - cd web && npm install
